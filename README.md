@@ -20,7 +20,7 @@ repo init -u https://github.com/LineageOS/android.git -b lineage-23.2.0 --git-lf
 
 - Clone this repository to .repo/local_manifests for roomservice.xml containing the repositories needed to build for these devices:
 ```
-git clone https://github.com/Badmaneers/even-manifests.git -b lineage-23.2 .repo/local_manifests
+git clone https://github.com/kolak-devs/even-manifests.git -b lineage-23.2 .repo/local_manifests
 ```
 
 - Sync all of the repositories in manifests (including LineageOS manifests):
