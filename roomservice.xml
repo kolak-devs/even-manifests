@@ -1,7 +1,7 @@
 <manifest>
 
     <!-- Device tree -->
-    <project name="kolak-devs/device_realme_even" path="device/realme/even" remote="github" revision="lineage-23.2" />
+    <project name="kolak-devs/device_realme_even" path="device/realme/even" remote="github" revision="sixteen-qpr2" />
 
     <!-- Kernel tree -->
     <project name="Badmaneers/kernel_realme_even" path="kernel/realme/even" remote="github" revision="rui4-main" />
