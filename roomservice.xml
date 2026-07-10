@@ -4,7 +4,7 @@
     <project name="kolak-devs/device_realme_even" path="device/realme/even" remote="github" revision="sixteen-qpr2" />
 
     <!-- Kernel tree -->
-    <project name="Badmaneers/kernel_realme_even" path="kernel/realme/even" remote="github" revision="rui4-main" />
+    <project name="Badmaneers/zenium_realme_even" path="kernel/realme/even" remote="github" revision="rui4-clean" />
 
     <!--Vendor -->
     <project path="vendor/realme/even" name="kolak-devs/vendor_realme_even_rui4" remote="github" revision="los-23.2" />
