@@ -22,6 +22,6 @@
     <project name="nishant6342/packages_apps_PocketMode" path="packages/apps/PocketMode" remote="github" revision="UNO" />
 
     <!-- Dolby -->
-    <project name="swiitch-OFF-Lab/hardware_dolby.git" path="hardware/dolby" remote="github" revision="sony-1.2" />
+    <project name="crdroidandroid/android_hardware_dolby" path="hardware/dolby" remote="github" revision="16.0" />
 
 </manifest>
