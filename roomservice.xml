@@ -10,13 +10,13 @@
     <project path="vendor/realme/even" name="kolak-devs/vendor_realme_even_rui4" remote="github" revision="sixteen/dev" />
 
     <!--Oplus hw -->
-    <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="github" revision="lineage-24.0" />
+    <project path="hardware/oplus" name="LineageOS/android_hardware_oplus" remote="github" revision="lineage-23.2" />
     
     <!-- Mediatek hw -->
-    <project name="LineageOS/android_hardware_mediatek" path="hardware/mediatek" remote="github" revision="lineage-24.0" />
+    <project name="LineageOS/android_hardware_mediatek" path="hardware/mediatek" remote="github" revision="lineage-23.2" />
 
     <!-- Mediatek sepolicy -->
-    <project name="LineageOS/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="lineage-24.0" />
+    <project name="LineageOS/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="github" revision="lineage-23.2" />
 
     <!-- Pocket Mode -->
     <project name="nishant6342/packages_apps_PocketMode" path="packages/apps/PocketMode" remote="github" revision="UNO" />
